@@ -25,6 +25,7 @@
 ### Data Visualization Tools:
 - [x] Microsoft Excel
 - [x] Tableau
+- [x] Google Data Studio 
 
 
 <br />
