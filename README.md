@@ -48,7 +48,7 @@
 
 | Company                       | Job Title                                          | Sector     |Duration            |
 | ------------------------------| ---------------------------------------------------|------------|--------------------|
-| Belgorod State University     | Financial Analyst Intern                           | Finance    |Jun 2021 - Aug 2021 |
+| Belgorod State University     | Financial Analyst Intern                           | Finance    |Jan 2020 - Aug 2021 |
 
 <!---
 | JMMB Group Ltd                | Manager Strategy Execution and Product Development | Finance    |Mar 2016 - Jun 2019 |
