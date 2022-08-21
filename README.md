@@ -39,6 +39,7 @@
 
 ### Customer Relationship Management (CRM):
 - [x] AmoCRM
+- [x] Hubspot 
 
 <br />
 
