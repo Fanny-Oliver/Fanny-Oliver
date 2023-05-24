@@ -26,6 +26,7 @@
 - [x] Microsoft Excel
 - [x] Tableau
 - [x] Google Data Studio 
+- [x] Power BI
 
 
 <br />
@@ -48,7 +49,7 @@
 
 | Company                       | Job Title                                          | Sector     |Duration            |
 | ------------------------------| ---------------------------------------------------|------------|--------------------|
-| Belgorod State University     | Financial Analyst Intern                           | Finance    |Jan 2020 - Aug 2021 |
+| OIGETIT                       | Marketing Analyst Intern                           | Technology |May 2022 - Sep 2022 |
 
 <!---
 | JMMB Group Ltd                | Manager Strategy Execution and Product Development | Finance    |Mar 2016 - Jun 2019 |
